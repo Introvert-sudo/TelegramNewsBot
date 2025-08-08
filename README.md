@@ -1,6 +1,6 @@
-# TechCrunch News Bot
+# News Bot
 
-A minimal Telegram bot built with Aiogram that fetches and delivers the latest news from [TechCrunch](https://techcrunch.com/) (or any other RSS/JSON feed) directly to your chat.  
+A minimal Telegram bot built with Aiogram that fetches and delivers the latest news from any other RSS/JSON feed directly to you.
 It supports real-time subscription management, background updates, and a clean architecture for extending to other feeds.
 
 ## Features
